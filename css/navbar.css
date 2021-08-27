@@ -1,0 +1,9 @@
+/* CSS used here will be applied after bootstrap.css */
+/* Posiision del logo en Navbar */
+.logo
+{
+    position: relative;
+    left: 22px;
+    margin-left: 0px;
+    height: 60px; /* height of the navbar */
+}
